@@ -22,7 +22,7 @@
   "author": "Sam Kirkland",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.9.1",
     "@samkirkland/ftp-deploy": "^1.2.1",
     "@types/jest": "^27.0.2",
     "jest": "^27.2.5",
